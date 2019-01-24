@@ -11,10 +11,10 @@
 </template>
 
 <script>
-import HeadMobile from '@/components/Head'
-import MenuMobile from '@/components/Menu'
-import NavMobile from '@/components/Nav'
-import FootMobile from '@/components/Foot'
+import HeadMobile from '@/components/Head';
+import MenuMobile from '@/components/Menu';
+import NavMobile from '@/components/Nav';
+import FootMobile from '@/components/Foot';
 export default {
   name: 'app',
   components: {
@@ -27,12 +27,12 @@ export default {
 </script>
 
 <style>
-.page{
+.page {
   position: relative;
   z-index: 99;
   transition: all 0.5s;
 }
-.toggle{
+.toggle {
   transform: translateX(-120px);
 }
 </style>

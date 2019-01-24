@@ -1,19 +1,11 @@
 # 百度百家
 
-> 这是我在学习完vue之后的一个练习项目，结构简单，十分适合新手学习。
-
-### 首页截图
-<center>
-<img src="https://daoket.github.io/baijia/eg1.jpg" width='375' height='667'/>
-</center>
-<center>
-<img src="https://daoket.github.io/baijia/eg2.jpg" width='375' height='667'/>
-</center>
+> 这是我在学习完 vue 之后的一个练习项目，结构简单，十分适合新手学习。
 
 ## 创建步骤
 
-``` bash
-1. git clone https://github.com/daoket/baidubaijia.git
+```bash
+1. git clone https://github.com/ChaosSoong/Vue-demo.git
 
 # install dependencies
 2. npm install
@@ -29,5 +21,6 @@
 ```
 
 ## 参考
-> - [vue官网](http://cn.vuejs.org/)
+
+> - [vue 官网](http://cn.vuejs.org/)
 > - [vue-loader](https://router.vuejs.org/)
